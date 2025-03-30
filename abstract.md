@@ -2,10 +2,9 @@
 
 ## Take away
 
-- Outils pour traiter ses TODO
-- Des actions concrètes pour mieux écrire ses TODO
-- Compréhension pourquoi certains sont pour
-- Compréhension pourquoi certains sont contre
+- Des actions concrètes pour traiter ses TODO
+- Compréhension pourquoi certains sont push
+- Compréhension pourquoi certains ne le sont pas
 
 ## Abstract
 
@@ -17,5 +16,4 @@ De TODO à DONE: vous saurez quelles stratégies adopter pour réduire leur nomb
 
 Je vous propose des actions concrètes afin de réduire cette dette technique inutile. Découvrez quels types d'organisation permet d'être exhaustive sans polluer nos bases de code !
 Voyez des exemples de bons usages comme des mauvais usages.
-
 
