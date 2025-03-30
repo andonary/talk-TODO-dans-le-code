@@ -8,12 +8,11 @@
 
 ## Abstract
 
-Nos bases de code sont déjà assez complexes comme ça, et nous nous rajoutons des commentaires TODO en plus.
-À la lecture de ceux-ci, se pose une question : sont-ils vraiment utiles?
+La quantité de commentaires TODO dans le code est souvent associée à de la mauvaise qualité, une dette technique à gérer ou encore un travail incomplet.
+Si c'est le cas : pourquoi en écrire?
 
-Leurs présences sont pourtant bien voulues. Entre ceux qui sont push et ceux qui ne le sont pas, vous apprendrez les raisons qui poussent des équipes à en écrire.
+Leurs présences sont pourtant bien voulues. Entre ceux qui sont push et ceux qui ne le sont pas, vous apprendrez les raisons qui poussent des équipes à en faire.
 De TODO à DONE: vous saurez quelles stratégies adopter pour réduire leur nombre.
 
-Je vous propose des actions concrètes afin de réduire cette dette technique inutile. Découvrez quels types d'organisation permet d'être exhaustive sans polluer nos bases de code !
-Voyez des exemples de bons usages comme des mauvais usages.
-
+Je vous propose de les traiter ! Découvrez quels types d'organisation permet d'être exhaustive sans polluer nos bases de code.
+Parcourons ensemble des exemples d'usages des TODO dans le code.
